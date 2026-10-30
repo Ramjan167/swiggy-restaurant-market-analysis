@@ -52,7 +52,7 @@ Every finding in this project was validated across at least two independent tool
 
 An interactive Power BI dashboard provides a high-level market overview: total restaurant count, average rating, average cost, and share of low-rated restaurants, broken down by city, cuisine, and cost band, with city and cost-band slicers for exploration.
 
-*(Insert dashboard screenshot here)*
+![Power BI Dashboard](dashboard_screenshot.png)
 
 ## Key Recommendations
 
